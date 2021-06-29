@@ -1,1 +1,29 @@
-# test numero dos
+# Visualización de la Información
+# Palabras : artículo 'A Tour Through the Visualization Zoo'
+
+
+* Small Multiples
+
+* Horizon Graphs
+
+* Parallel Cordinates
+
+* Choropleth Maps:
+	'One common error is to encode raw data values (such as population)
+	rather than using normalized values to produce a density map.'
+
+
+* Graduated Symbol Maps
+
+* Cartograms
+
+* Node-Link Diagrams: Reingold-Tilford
+* Adjacency Diagrams
+
+* Force-Directed Layout
+
+
+* Arc Diagrams:
+	'The problem of sorting the nodes in a manner that reveals 
+	underlying cluster structure is formally called seriation'	
+
