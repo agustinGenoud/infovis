@@ -1,0 +1,11 @@
+small multiples
+horizon graphs
+parallel cordinates
+choropleth maps
+graduated symbol maps
+cartograms
+node-link diagrams
+reingold-tilford
+adjacency diagrams
+force-directed layout
+arc diagrams	
